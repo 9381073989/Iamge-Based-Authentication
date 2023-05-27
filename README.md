@@ -13,3 +13,11 @@ banking, e-commerce, or social media platforms, where security is crucial to pre
 typically required to provide an image or a set of images as part of the authentication process. The system then analyzes the images and compares them to a 
 pre-defined database of images to verify the user's identity. The images can be in various forms, such as photographs, facial features, fingerprints, or handprints.
 
+
+
+![image](https://github.com/9381073989/Iamge-Based-Authentication/assets/101542387/adfca934-075c-4db6-968c-5fc125b8a61a)
+
+
+![image](https://github.com/9381073989/Iamge-Based-Authentication/assets/101542387/62c7736a-ad1d-428a-93d6-9f1bb0919b61)
+
+
